@@ -1,0 +1,14 @@
+.flot
+{
+    float: right;
+}
+
+.flot + p
+{
+    clear: both;
+    font-size: 60px;
+}
+span
+{
+    font-size: 5rem;
+}
